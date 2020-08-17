@@ -14,5 +14,5 @@ Dataset is taken from UCI ML Repository.The dataset has 24 columns and 195 recor
 
 We have to pip install sklearn xgboost.
 
-##Summary
+## Summary
 In this we learned to detect the parkinson's disease in individual factors. This gives an accuracy of 94.87%.
